@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hello tout le monde 👋, Moi c'est Mrfafidoo
+#### Je suis un jeune dev Front-end et + !
+![Je suis un jeune dev Front-end et + !](https://cdn.discordapp.com/attachments/924772544882557008/924820625577639967/Yx0TgRA.gif)
 
-<!--
-**mrfafidoo/mrfafidoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+je débute dans le développement front-end ( via HTML/CSS) et je suis aussi de manière plus avancée dans le Lua (Glua) et le JS
 
-Here are some ideas to get you started:
+Skills: LUA / JS / HTML / CSS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/mrfafidoo)  
+
+![Profile views](https://gpvc.arturio.dev/mrfafidoo)  
